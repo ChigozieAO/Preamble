@@ -1,0 +1,54 @@
+code (KOD)
+
+Definitions :
+
+- A system of signals used to represent letters or numbers in transmitiing messages.
+
+- A system of symbols, letters or words given certain arbitrary meanings, used for transmitiing messages requiring secrecy or brevity.
+
+- A system of symbols and rules used to represent instructions to a computer. 
+        ('The American Heritage Dictionary of the English Language')
+
+
+Morse code 
+
+- This was invented by Samuel Finley Breese Morse (1791 - 1872).
+
+code :
+
+: A (.-) B (-...) C (-.-.) D (-..) E (.) F (..-.) G (--.) H (....) I (..) J (.---) K (-.-) L (.-..) M (--) N(-.)
+  O (---) P (.--.) Q (--.-) R (.-.) S (...) T (-) U (..-) V (...-) W (.--) X (-..-) Y (-.--) Z (--..) 
+
+
+Electricity 
+
+Definitions :
+
+- Electricity is basically the movement of electrons from one place(medium or object) to another 
+
+- Voltage refers to a potential for doing work
+- Current is related to the number of electrons actually zipping around the circuit.
+- Resistance refers to the tendency of a substance to impede the flow of electrons.
+
+/ The thicker the wire , the lower the resistance 
+/ The larger the wire , the higher the resistance
+
+* The " Water - and - Pipe " analogy : Current is similar to the amount of water flowing through a pipe. Voltage is similar to
+  the water pressure. Resistance is similar to the width of a pipe - the smaller the pipe, the larger the resistance. the smaller
+  the pipe, the less water that flows through it. The amount of water flowing through a pipe (the current) is directly proportional
+  to the water pressure (the voltage) and inversely proportional to the skinniness of the pipe (the resistance)
+
+' Georg Simon Ohm (1789 - 1854)
+' Ohm's Law : I = E / R 
+
+' Watt is a measurement of power ( P )
+' P = E x I 
+
+Binary and Decimal system
+
+conversion to Decimal
+- 2^0 + 2^1 + 2^2 + 2^3 + 2^4 + 2^5 + 2^6 + 2^x .....
+
+conversion to Binary
+- 
+
