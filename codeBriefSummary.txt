@@ -52,3 +52,59 @@ conversion to Decimal
 conversion to Binary
 - 
 
+Feedback and Flip Flop 
+
+A cycle of a oscillator is defined as the interval during which the output of the oscillator changes and then comes back to where
+it started.
+
+- The time required for one cycle is called a period of the oscillator.
+
+- The frequency of the oscillator is divided by the period.
+
+* Heinrich Rudolph Hertz (1857 - 1894), who was the first person to transmit and recieve radio waves.
+
+- A flip-flop circuit is one that has two stable states when both swithches are open. The flip-flop dates from 1918 with the work
+  of English radio physicist william Henry Eccles and F.W Jordan.
+
+Level-triggered D-type Latch, this simply means that the circuit latches onto one bit of data and keeps it around for further use.
+which can also be referred to as a 1 - bit memory.
+
+A circuit in which the Q(bar) output is routed back to the data input of a flip-flop is also known as a frequency divider.
+
+
+Bytes and Hex
+
+Hex to Decimal
+- () x 4096 + () x 256 + () x 16 + () x 1
+- () x 16^4 + () x 16^3 + () x 16^2 + () x 16^1 + () x 16^0
+
+
+Memory
+
+RAM : Read / Write Memory or Random Access Memory
+
+- A particular configuration of RAM is often referered to as a RAM array.
+
+-The number of values that a RAM array stores is directly related to the number of Address inputs.
+
+- With no Address inputs, two values are possible. with two Address inputs, four values are stored.
+  with three Address inputs, eight value are possible, with four Address inputs, sixteen values are stored.
+
+Numbers of values in RAM array = 2^no of Address inputs.
+
+8 bits = 1 byte 
+1 kilobyte = 1024 bytes
+1 megabyte = 1024 kilobyte
+1 gigabyte = 1024 megabyte
+1 terabyte = 1024 gigabyte
+
+
+Automation
+
+- Digital data is discreet data - data that has certain specific distinct values.
+- Analog information is continuous and varies throughout an entire range.
+
+- A digital compute works with discreet numbers 
+- Digital computer has four main parts: a processor , memory , at least one input device, and least one output device.
+
+
